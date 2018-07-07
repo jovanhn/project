@@ -8,4 +8,4 @@ def substract(a,b):
     pass
 
 def add(a,b):
-    pass
+    return a + b
