@@ -5,7 +5,7 @@ def divide(a,b):
     pass
 
 def substract(a,b):
-    pass
+    return a - b
 
 def add(a,b):
     return a + b
